@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Madio Pahty"
+title: "Madio Pahty, Launches Site"
 date: 2019-05-31
 ---
 
