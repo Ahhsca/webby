@@ -1,3 +1,5 @@
 name: Madio Pahty
 markdown: kramdown
 permalink: ahhsca.github.io/blog/:year/:month/:day/:title
+
+theme: jekyll-theme-dinky
