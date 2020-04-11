@@ -2,6 +2,9 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+br {
+    line-height: 150%;
+}
 nav ul, footer ul {
     font-size: 1em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
